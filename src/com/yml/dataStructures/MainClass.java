@@ -1,5 +1,4 @@
 package com.yml.dataStructures;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -36,5 +35,3 @@ public class MainClass {
 		 o.write();
 		}}
 	}
-
-}
