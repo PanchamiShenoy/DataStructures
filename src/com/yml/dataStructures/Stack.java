@@ -21,8 +21,20 @@ class Stack {
 	/**
 	 * pop element from the stack
 	 */
+
 	public char pop() {
 		char c = data[top--];
 		return c;
+
+
+	/**
+	 * check if stock is empty
+	 * 
+	 * @return
+	 */
+	public boolean isEmpty() {
+		if (top == -1)
+			return true;
+		return false;
 	}
 }
