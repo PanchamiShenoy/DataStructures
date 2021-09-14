@@ -33,5 +33,7 @@ public class MainClass {
 		o.search(input);
 		 o.display();
 		 o.write();
-		}}
+		}
+		 }
 	}
+}
