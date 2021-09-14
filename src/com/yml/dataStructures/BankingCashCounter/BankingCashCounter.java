@@ -1,4 +1,4 @@
-package com.yml.dataStructures;
+package com.yml.dataStructures.BankingCashCounter;
 
 import java.util.Scanner;
 

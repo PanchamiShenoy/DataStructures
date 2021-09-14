@@ -1,4 +1,4 @@
-package com.yml.dataStructures;
+package com.yml.dataStructures.BankingCashCounter;
 
 class Queue {
 	int queue[] = new int[100];
