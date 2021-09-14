@@ -21,12 +21,11 @@ class Stack {
 	/**
 	 * pop element from the stack
 	 */
-	public void pop() {
-		if (top == -1) {
-			return;
-		}
+
+	public char pop() {
 		char c = data[top--];
-	}
+		return c;
+
 
 	/**
 	 * check if stock is empty
